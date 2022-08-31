@@ -277,12 +277,11 @@ exports.donate = (pushname, ownerNumber) => {
 
 Hai ${pushname}👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 081575886399 (Dana/GoPay)
+🏧 085882802642 (Dana/Ovo)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
 Arigatou!
-
 Contact person Owner:
 wa.me/${ownerNumber.split("@")[0]} (Owner)`
 }
